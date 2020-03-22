@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Student Portal</string>
+    <string name="action_settings">Settings</string>
+    <string name="author">Made by: Erencan Kanmaz</string>
+    <string name="student_portal">Student Portal</string>
+    <string name="add_portal">Add Portal</string>
+</resources>
